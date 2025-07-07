@@ -1,4 +1,4 @@
-This is the final assignment for CSSE7030 Introduction to Software Engineering
+Final assignment for CSSE7030 Introduction to Software Engineering
 
 The script runs a Farm Game.
 The code structure is organized with separate classes for different views.
